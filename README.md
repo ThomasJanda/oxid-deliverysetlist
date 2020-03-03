@@ -6,6 +6,8 @@ Display the delivery methods as list instead of a drop down
 
 This module was created for Oxid 6.x, Wave Theme.
 
+![](shop1.png)
+
 ## Install
 
 1. Copy files into following directory
